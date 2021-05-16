@@ -1,0 +1,38 @@
+add student ilya khalafi
+add student mmd falah -y 99
+add student ramin khalil -y 98
+add student parsa psps -y 97
+add student mehrad esmail -y 98
+list student -p 98
+list student -p 99
+add prof c0ntraria ilya khalafi
+add prof lantern james green
+add prof magic melania trump
+add prof apple steve jobs
+add prof moon new company
+list prof
+add course math c0ntraria 99-2 -w 4
+add course math lantern 99-2 -w 2
+add course physics c0ntraria 98-1
+add course english apple -w 1
+add course calculus moon 98-2
+course list
+course list -p lantern
+course list -s 99-2
+course list -p lantern -s 99-2
+assign course math:c0ntraria:99-2 99001
+assign course math:lantern:99-2 99001
+assign course calculus:moon:98-2 99002
+assign course math:c0ntraria:99-2 99002
+assign course physic:c0ntraria:98-1 97001
+assign course calculus:moon:98-2 97001
+profit 99-2
+profit 98-2
+salary prof c0ntraria
+salary prof c0ntraria -s 99-2
+salary prof c0ntraria -s 99-2 98-1
+show course 99001 99-2
+show course 97001 98-2
+profit 99-2
+tuition student 99001 99-2
+
