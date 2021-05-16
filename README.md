@@ -1,6 +1,7 @@
 # University Manager Commandline
 - A great and hard Example to Learn OOP
 - Use Regex to Handle Commandline
+- There is an example input.txt that you can use
 - thats how to use :
 ```
 // First you should add student like:
@@ -57,3 +58,7 @@ salary prof Ali.Noghabi -s 99-2 98-1
 
 salary prof ProfessorUserName
 salary prof Ali.Noghabi
+```
+- Hope you Like it
+
+BY: Ali Abdollahian Noghabi
